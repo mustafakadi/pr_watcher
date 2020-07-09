@@ -1,0 +1,6 @@
+BTN_YES = 'Yes'
+BTN_NO = 'No'
+BTN_OPEN_LINK = 'Open Link'
+BTN_OK = 'OK'
+
+BTNS_LIST = [BTN_YES, BTN_NO, BTN_OPEN_LINK, BTN_OK]
