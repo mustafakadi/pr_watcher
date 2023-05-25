@@ -37,7 +37,7 @@ _FAILED = "failed"
 """ Private constants for functionality """
 _MERGED_STR = "MERGED"
 
-
+""" dockstring """
 class PrStatus(enum.Enum):
     FAILED = 1
     IN_PROGRESS = 2
